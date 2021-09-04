@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔭 Atualmente estou participando do programa de aceleração de carreira Ignite, na trilha ReactJS e fazendo o bootcamp FullStack Start Tech.
+- 🔭 Atualmente estou participando do programa de aceleração de carreira Ignite, da Rocketseat, na trilha ReactJS.
 - 🌱 Estou estudando Javascript / React
 - 📫 Onde me achar: <br>
 [LinkedIn](https://www.linkedin.com/in/alineavelinorocha/)<br>
