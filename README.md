@@ -8,8 +8,8 @@
   💼 Trabalho em uma empresa de tradução de italiano e no início de 2022 pretendo concluir minha transição para a área dev.<br>
 
     
-<div align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lineavelino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"><br>
-</div>
+
