@@ -4,7 +4,7 @@
   💻 Tenho 28 anos, nasci em Sumaré, no interior de SP, mas moro no Rio de Janeiro desde os 11 anos.<br><br>
   🎓 Concluí Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi em junho de 2021.<br><br>
   🚀 Atualmente sou bolsista do programa de aceleração de carreira Ignite (Rocketseat) na trilha ReactJS.<br><br>
-  💼 Trabalho em uma empresa de tradução de italiano e no início de 2022 pretendo concluir minha transição para a área dev.<br>
+  💼 Estou em busca da minha primeira oportunidade dentro da área dev.<br>
   
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" align="right"><br>
