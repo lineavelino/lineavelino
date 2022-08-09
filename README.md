@@ -1,9 +1,9 @@
 # Hello, World! 👋☕ <br> [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" align="right"/>](https://twitter.com/LineAvelino) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="right"/>](https://www.linkedin.com/in/alineavelinorocha/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" align="right">](https://www.instagram.com/alineavelinorocha/)
 <br>
   
-  💻 Tenho 28 anos, nasci em Sumaré, no interior de SP, mas moro no Rio de Janeiro desde os 11 anos.<br><br>
+  💻 Tenho 29 anos, nasci em Sumaré, no interior de SP, mas moro no Rio de Janeiro desde os 11 anos.<br><br>
   🎓 Concluí Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi em junho de 2021.<br><br>
-  🚀 Atualmente sou bolsista do programa de aceleração de carreira Ignite (Rocketseat) na trilha ReactJS.<br><br>
+  🚀 Atualmente Node e React.<br><br>
   💼 Trabalho como Desenvolvedora Trainee no Grupo FCamara desde maio de 2022.<br>
   
  
