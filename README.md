@@ -3,7 +3,7 @@
   
   💻 Tenho 29 anos, nasci em Sumaré, no interior de SP, mas moro no Rio de Janeiro desde os 11 anos.<br><br>
   🎓 Concluí Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi em junho de 2021.<br><br>
-  🚀 Atualmente Node e React.<br><br>
+  🚀 Atualmente estudo Node e React.<br><br>
   💼 Trabalho como Desenvolvedora Trainee no Grupo FCamara desde maio de 2022.<br>
   
  
